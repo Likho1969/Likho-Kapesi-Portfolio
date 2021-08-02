@@ -912,6 +912,7 @@ p.heading-text {
   margin-top: 20px;
 }
 
+
 .single-portfolio .item {
   position: relative;
   overflow: hidden;
@@ -932,9 +933,9 @@ p.heading-text {
   cursor: pointer;
 }
 
-.item-overlay{
+.single-portfolio .item-overlay{
   display: flex;
-  justify-content: space-between;
+  justify-content: space-evenly;
 }
 
 .single-portfolio .item-overlay {
