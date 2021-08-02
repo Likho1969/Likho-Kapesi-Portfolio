@@ -932,6 +932,11 @@ p.heading-text {
   cursor: pointer;
 }
 
+.item-overlay{
+  display: flex;
+  justify-content: space-between;
+}
+
 .single-portfolio .item-overlay {
   position: absolute;
   transition: 0.3s cubic-bezier(0.4, 0, 1, 1);

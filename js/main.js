@@ -13,7 +13,7 @@ $(document).ready(function () {
 
   $(function () {
     element.typed({
-      strings: ["An Aspiring Full Stack Developer", "A Full Market Analyst", "A Financial Education/ Literacy Educator", "A Psychologist in Trading & Investment"],
+      strings: ["An Aspiring Full Stack Developer", "A Full Market Analyst", "A Financial Education/ Literacy Educator", "Trading & Investment Psychologist"],
       loop: true,
       typeSpeed: 90,
     });
